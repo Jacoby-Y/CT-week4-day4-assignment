@@ -18,3 +18,4 @@
 #### Functionality
 - Double check password in registration
 - Save and load `reading_list` from a file
+- User can delete their account
